@@ -1,0 +1,62 @@
+body{
+    font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: brown;
+}
+h1,h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    border-bottom: 3px solid #aaa;
+    background-color: whitesmoke;
+    color: crimson; 
+    padding: 5px;
+}
+h2{
+    border-top: 1px solid pink;
+    border-bottom: 1px solid red;
+    background-color: whitesmoke;
+    padding-left: 5px;
+    margin: 0 0 0 -15px;
+    font-weight: normal;
+}
+.secao{
+    background-color: antiquewhite;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+.secao1{
+    background-color: antiquewhite;
+    padding-left: 15px;
+    padding-top: 45px;
+    padding-bottom: 5px;
+}
+label{
+    font-weight: bold;
+    margin-right: 10px;
+}
+label:after{
+    content: ":"
+}
+a{
+    text-decoration: none;
+    color: crimson;
+}
+a:hover{
+    text-decoration: none;
+    color: whitesmoke;
+}
+#menu ul, #menu li{
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#menu.ativo{
+    background-color: crimson;
+}
+.url, .email{
+    display: contents;
+}
+.Foto{
+    width: 300px;
+    height: 300px;
+}
