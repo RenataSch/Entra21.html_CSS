@@ -6,6 +6,6 @@
 
 ## Organização do repositório:
 
-- Pastas identificadas como aulas (ex: Aula1) guardarão exemplos do uso da linguagem.
+- Pastas identificadas como aulas (ex: Aula1) guardarão exemplos passados no curso do uso da linguagem.
 - Arquivos e pastas com nomes diferentes no repositório são projetos desenvolvidos por mim.
 
